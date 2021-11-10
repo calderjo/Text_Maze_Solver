@@ -1,11 +1,3 @@
-
-This Directory and all its contents were created by Jonathan Calderon Chavez
-for the course CS315 assigment Project 1
-
-
-This directory contians all source files needed to run the program assigned for
-Project 1
-
 This Directory contains the following files
 --------------------------------------------
 
